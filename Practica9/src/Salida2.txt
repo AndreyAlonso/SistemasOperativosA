@@ -1,0 +1,104 @@
+Granja Chavez Ricardo
+Hernandez Alonso Andrey
+
+Agente introduce: CERILLOS
+Agente introduce: PAPEL
+La mesa tiene: CERILLOS, PAPEL
+B tiene: PAPEL
+B Intentando Fumar
+A tiene: CERILLOS
+A Intentando Fumar
+C tiene: TABACO
+C Esta Fumando...
+Se dejo de fumar 
+Agente introduce: PAPEL
+Agente introduce: TABACO
+La mesa tiene: PAPEL, TABACO
+B tiene: PAPEL
+B Intentando Fumar
+A tiene: CERILLOS
+A Esta Fumando...
+C tiene: TABACO
+C Intentando Fumar
+Se dejo de fumar 
+Agente introduce: TABACO
+Agente introduce: PAPEL
+La mesa tiene: TABACO, PAPEL
+B tiene: PAPEL
+B Intentando Fumar
+C tiene: TABACO
+C Intentando Fumar
+A tiene: CERILLOS
+A Esta Fumando...
+Agente introduce: CERILLOS
+Agente introduce: PAPEL
+La mesa tiene: CERILLOS, PAPEL
+Se dejo de fumar 
+Mesa llena
+B tiene: PAPEL
+B Esta Fumando...
+C tiene: TABACO
+C Intentando Fumar
+Se dejo de fumar 
+A tiene: CERILLOS
+A Intentando Fumar
+Agente introduce: TABACO
+Agente introduce: CERILLOS
+La mesa tiene: TABACO, CERILLOS
+C tiene: TABACO
+C Intentando Fumar
+B tiene: PAPEL
+B Esta Fumando...
+Se dejo de fumar 
+A tiene: CERILLOS
+A Intentando Fumar
+C tiene: TABACO
+C Intentando Fumar
+B tiene: PAPEL
+B Esta Fumando...
+A tiene: CERILLOS
+A Intentando Fumar
+Se dejo de fumar 
+Agente introduce: CERILLOS
+Agente introduce: TABACO
+La mesa tiene: CERILLOS, TABACO
+C tiene: TABACO
+C Intentando Fumar
+A tiene: CERILLOS
+A Intentando Fumar
+B tiene: PAPEL
+B Esta Fumando...
+Se dejo de fumar 
+Agente introduce: PAPEL
+Agente introduce: CERILLOS
+La mesa tiene: PAPEL, CERILLOS
+C tiene: TABACO
+C Esta Fumando...
+Se dejo de fumar 
+A tiene: CERILLOS
+A Intentando Fumar
+B tiene: PAPEL
+B Intentando Fumar
+Agente introduce: PAPEL
+Agente introduce: CERILLOS
+La mesa tiene: PAPEL, CERILLOS
+C tiene: TABACO
+C Esta Fumando...
+A tiene: CERILLOS
+A Intentando Fumar
+Se dejo de fumar 
+B tiene: PAPEL
+B Intentando Fumar
+Agente introduce: TABACO
+Agente introduce: CERILLOS
+La mesa tiene: TABACO, CERILLOS
+A tiene: CERILLOS
+A Intentando Fumar
+C tiene: TABACO
+C Intentando Fumar
+B tiene: PAPEL
+B Esta Fumando...
+Se dejo de fumar 
+A tiene: CERILLOS
+A Intentando Fumar
+C tiene: TABACO

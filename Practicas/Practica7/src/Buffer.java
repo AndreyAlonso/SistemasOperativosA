@@ -17,11 +17,11 @@ public class Buffer {
         // Insertar dato en el buffer.
         // Imprimir mensaje de inserción, la posición
         // donde se insertó y el dato.
-        if (pila.length == index) {
+        if (pila.length-1 == index) {
             System.out.println("El buffer esta lleno");
         }
         else {
-            Thread.sleep(2000);
+            Thread.sleep(700);
             index++;
             pila[index] = dato;
 
@@ -40,7 +40,7 @@ public class Buffer {
             System.out.println("El buffer esta vacio");
         }
         else {
-            Thread.sleep(2000);
+            Thread.sleep(800);
             datoEliminado = pila[index];
             pila[index] = -1;
             System.out.println("Se saco del buffer el numero " + datoEliminado +" de la posición "+ index);

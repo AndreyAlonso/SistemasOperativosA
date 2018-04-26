@@ -1,0 +1,99 @@
+Nombres:  Granja Chavez Ricardo, Hernández Alonso Héctor Andrey
+Fecha: 13 Abril 2018
+El buffer esta vacio
+El buffer esta vacio
+13 se insetó a la pila en el lugar 1
+12 se insetó a la pila en el lugar 2
+Se saco del buffer el numero 12 de la posición 2
+13 se insetó a la pila en el lugar 2
+Se saco del buffer el numero 13 de la posición 2
+14 se insetó a la pila en el lugar 2
+Se saco del buffer el numero 14 de la posición 2
+12 se insetó a la pila en el lugar 2
+Se saco del buffer el numero 12 de la posición 2
+7 se insetó a la pila en el lugar 2
+1 se insetó a la pila en el lugar 3
+Se saco del buffer el numero 1 de la posición 3
+14 se insetó a la pila en el lugar 3
+Se saco del buffer el numero 14 de la posición 3
+14 se insetó a la pila en el lugar 3
+Se saco del buffer el numero 14 de la posición 3
+13 se insetó a la pila en el lugar 3
+Se saco del buffer el numero 13 de la posición 3
+5 se insetó a la pila en el lugar 3
+Se saco del buffer el numero 5 de la posición 3
+11 se insetó a la pila en el lugar 3
+4 se insetó a la pila en el lugar 4
+Se saco del buffer el numero 4 de la posición 4
+11 se insetó a la pila en el lugar 4
+Se saco del buffer el numero 11 de la posición 4
+12 se insetó a la pila en el lugar 4
+Se saco del buffer el numero 12 de la posición 4
+8 se insetó a la pila en el lugar 4
+Se saco del buffer el numero 8 de la posición 4
+5 se insetó a la pila en el lugar 4
+Se saco del buffer el numero 5 de la posición 4
+7 se insetó a la pila en el lugar 4
+0 se insetó a la pila en el lugar 5
+Se saco del buffer el numero 0 de la posición 5
+9 se insetó a la pila en el lugar 5
+Se saco del buffer el numero 9 de la posición 5
+8 se insetó a la pila en el lugar 5
+El buffer esta lleno
+Se saco del buffer el numero 8 de la posición 5
+8 se insetó a la pila en el lugar 5
+Se saco del buffer el numero 8 de la posición 5
+11 se insetó a la pila en el lugar 5
+El buffer esta lleno
+Se saco del buffer el numero 11 de la posición 5
+12 se insetó a la pila en el lugar 5
+Se saco del buffer el numero 12 de la posición 5
+11 se insetó a la pila en el lugar 5
+Se saco del buffer el numero 11 de la posición 5
+4 se insetó a la pila en el lugar 5
+El buffer esta lleno
+Se saco del buffer el numero 4 de la posición 5
+0 se insetó a la pila en el lugar 5
+Se saco del buffer el numero 0 de la posición 5
+5 se insetó a la pila en el lugar 5
+El buffer esta lleno
+Se saco del buffer el numero 5 de la posición 5
+0 se insetó a la pila en el lugar 5
+Se saco del buffer el numero 0 de la posición 5
+6 se insetó a la pila en el lugar 5
+Se saco del buffer el numero 6 de la posición 5
+4 se insetó a la pila en el lugar 5
+El buffer esta lleno
+Se saco del buffer el numero 4 de la posición 5
+6 se insetó a la pila en el lugar 5
+Se saco del buffer el numero 6 de la posición 5
+11 se insetó a la pila en el lugar 5
+El buffer esta lleno
+Se saco del buffer el numero 11 de la posición 5
+7 se insetó a la pila en el lugar 5
+Se saco del buffer el numero 7 de la posición 5
+2 se insetó a la pila en el lugar 5
+El buffer esta lleno
+Se saco del buffer el numero 2 de la posición 5
+8 se insetó a la pila en el lugar 5
+Se saco del buffer el numero 8 de la posición 5
+6 se insetó a la pila en el lugar 5
+Se saco del buffer el numero 6 de la posición 5
+2 se insetó a la pila en el lugar 5
+El buffer esta lleno
+Se saco del buffer el numero 2 de la posición 5
+1 se insetó a la pila en el lugar 5
+Se saco del buffer el numero 1 de la posición 5
+5 se insetó a la pila en el lugar 5
+El buffer esta lleno
+Se saco del buffer el numero 5 de la posición 5
+10 se insetó a la pila en el lugar 5
+Se saco del buffer el numero 10 de la posición 5
+3 se insetó a la pila en el lugar 5
+El buffer esta lleno
+Se saco del buffer el numero 3 de la posición 5
+1 se insetó a la pila en el lugar 5
+Se saco del buffer el numero 1 de la posición 5
+0 se insetó a la pila en el lugar 5
+Se saco del buffer el numero 0 de la posición 5
+6 se insetó a la pila en el lugar 5

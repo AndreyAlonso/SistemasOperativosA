@@ -7,14 +7,14 @@ public class Productor extends Thread {
     private Random random;
     private int val;
 
-
+    // Constructor de la clase Productor
     public Productor(Buffer buffer){
         buffercomp = buffer;
     }
     public void run(){
         for( ; ; ){
             try {
-                Thread.sleep(2000);
+                Thread.sleep(700);
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }

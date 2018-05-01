@@ -1,0 +1,530 @@
+Numero de abejas: 11
+Tamaño del tarro: 12
+
+Oso durmiendo...
+Oso durmiendo...
+Oso durmiendo...
+Oso durmiendo...
+Oso durmiendo...
+Oso durmiendo...
+Oso durmiendo...
+Oso durmiendo...
+La abeja A dio una porción de miel
+Valor del tarro: 1
+ 
+Oso durmiendo...
+Oso durmiendo...
+La abeja B dio una porción de miel
+Valor del tarro: 2
+ 
+Oso durmiendo...
+La abeja C dio una porción de miel
+Valor del tarro: 3
+ 
+Oso durmiendo...
+Oso durmiendo...
+La abeja D dio una porción de miel
+Valor del tarro: 4
+ 
+Oso durmiendo...
+Oso durmiendo...
+La abeja E dio una porción de miel
+Valor del tarro: 5
+ 
+Oso durmiendo...
+La abeja F dio una porción de miel
+Valor del tarro: 6
+ 
+Oso durmiendo...
+La abeja A dio una porción de miel
+Valor del tarro: 7
+ 
+Oso durmiendo...
+La abeja G dio una porción de miel
+Valor del tarro: 8
+ 
+Oso durmiendo...
+La abeja B dio una porción de miel
+Valor del tarro: 9
+ 
+La abeja H dio una porción de miel
+Valor del tarro: 10
+ 
+Oso durmiendo...
+La abeja C dio una porción de miel
+Valor del tarro: 11
+ 
+Oso durmiendo...
+La abeja I dio una porción de miel
+Valor del tarro: 12
+ 
+La abeja I lleno el tarro
+La abeja I despertara al oso
+ 
+Oso se desperto 
+
+Oso comiendo
+
+Se vacio el tarro de miel
+
+Tamaño del tarro: 12
+
+La abeja D dio una porción de miel
+Valor del tarro: 1
+ 
+Oso durmiendo...
+La abeja J dio una porción de miel
+Valor del tarro: 2
+ 
+La abeja E dio una porción de miel
+Valor del tarro: 3
+ 
+Oso durmiendo...
+La abeja K dio una porción de miel
+Valor del tarro: 4
+ 
+Oso durmiendo...
+La abeja F dio una porción de miel
+Valor del tarro: 5
+ 
+Oso durmiendo...
+La abeja A dio una porción de miel
+Valor del tarro: 6
+ 
+Oso durmiendo...
+La abeja G dio una porción de miel
+Valor del tarro: 7
+ 
+La abeja B dio una porción de miel
+Valor del tarro: 8
+ 
+Oso durmiendo...
+La abeja H dio una porción de miel
+Valor del tarro: 9
+ 
+Oso durmiendo...
+La abeja C dio una porción de miel
+Valor del tarro: 10
+ 
+Oso durmiendo...
+La abeja I dio una porción de miel
+Valor del tarro: 11
+ 
+Oso durmiendo...
+La abeja D dio una porción de miel
+Valor del tarro: 12
+ 
+La abeja D lleno el tarro
+La abeja D despertara al oso
+ 
+La abeja J lleno el tarro
+La abeja J despertara al oso
+ 
+Oso se desperto 
+
+Oso comiendo
+
+Se vacio el tarro de miel
+
+Tamaño del tarro: 12
+
+La abeja E dio una porción de miel
+Valor del tarro: 1
+ 
+Oso durmiendo...
+La abeja K dio una porción de miel
+Valor del tarro: 2
+ 
+Oso durmiendo...
+La abeja F dio una porción de miel
+Valor del tarro: 3
+ 
+Oso durmiendo...
+La abeja A dio una porción de miel
+Valor del tarro: 4
+ 
+La abeja G dio una porción de miel
+Valor del tarro: 5
+ 
+Oso durmiendo...
+La abeja B dio una porción de miel
+Valor del tarro: 6
+ 
+Oso durmiendo...
+La abeja H dio una porción de miel
+Valor del tarro: 7
+ 
+Oso durmiendo...
+La abeja C dio una porción de miel
+Valor del tarro: 8
+ 
+Oso durmiendo...
+La abeja I dio una porción de miel
+Valor del tarro: 9
+ 
+La abeja D dio una porción de miel
+Valor del tarro: 10
+ 
+Oso durmiendo...
+La abeja J dio una porción de miel
+Valor del tarro: 11
+ 
+Oso durmiendo...
+La abeja E dio una porción de miel
+Valor del tarro: 12
+ 
+La abeja E lleno el tarro
+La abeja E despertara al oso
+ 
+Oso se desperto 
+
+Oso comiendo
+
+Se vacio el tarro de miel
+
+Tamaño del tarro: 12
+
+La abeja K dio una porción de miel
+Valor del tarro: 1
+ 
+Oso durmiendo...
+La abeja F dio una porción de miel
+Valor del tarro: 2
+ 
+La abeja A dio una porción de miel
+Valor del tarro: 3
+ 
+Oso durmiendo...
+La abeja G dio una porción de miel
+Valor del tarro: 4
+ 
+Oso durmiendo...
+La abeja B dio una porción de miel
+Valor del tarro: 5
+ 
+Oso durmiendo...
+La abeja H dio una porción de miel
+Valor del tarro: 6
+ 
+Oso durmiendo...
+La abeja C dio una porción de miel
+Valor del tarro: 7
+ 
+La abeja I dio una porción de miel
+Valor del tarro: 8
+ 
+Oso durmiendo...
+La abeja D dio una porción de miel
+Valor del tarro: 9
+ 
+Oso durmiendo...
+La abeja J dio una porción de miel
+Valor del tarro: 10
+ 
+Oso durmiendo...
+La abeja E dio una porción de miel
+Valor del tarro: 11
+ 
+Oso durmiendo...
+La abeja K dio una porción de miel
+Valor del tarro: 12
+ 
+La abeja K lleno el tarro
+La abeja K despertara al oso
+ 
+La abeja F lleno el tarro
+La abeja F despertara al oso
+ 
+Oso se desperto 
+
+Oso comiendo
+
+Se vacio el tarro de miel
+
+Tamaño del tarro: 12
+
+La abeja A dio una porción de miel
+Valor del tarro: 1
+ 
+Oso durmiendo...
+La abeja G dio una porción de miel
+Valor del tarro: 2
+ 
+Oso durmiendo...
+La abeja B dio una porción de miel
+Valor del tarro: 3
+ 
+Oso durmiendo...
+La abeja H dio una porción de miel
+Valor del tarro: 4
+ 
+La abeja C dio una porción de miel
+Valor del tarro: 5
+ 
+Oso durmiendo...
+La abeja I dio una porción de miel
+Valor del tarro: 6
+ 
+Oso durmiendo...
+La abeja D dio una porción de miel
+Valor del tarro: 7
+ 
+Oso durmiendo...
+La abeja J dio una porción de miel
+Valor del tarro: 8
+ 
+Oso durmiendo...
+La abeja E dio una porción de miel
+Valor del tarro: 9
+ 
+La abeja K dio una porción de miel
+Valor del tarro: 10
+ 
+Oso durmiendo...
+La abeja F dio una porción de miel
+Valor del tarro: 11
+ 
+Oso durmiendo...
+La abeja A dio una porción de miel
+Valor del tarro: 12
+ 
+La abeja A lleno el tarro
+La abeja A despertara al oso
+ 
+Oso se desperto 
+
+Oso comiendo
+
+Se vacio el tarro de miel
+
+Tamaño del tarro: 12
+
+La abeja G dio una porción de miel
+Valor del tarro: 1
+ 
+Oso durmiendo...
+La abeja B dio una porción de miel
+Valor del tarro: 2
+ 
+La abeja H dio una porción de miel
+Valor del tarro: 3
+ 
+Oso durmiendo...
+La abeja C dio una porción de miel
+Valor del tarro: 4
+ 
+Oso durmiendo...
+La abeja I dio una porción de miel
+Valor del tarro: 5
+ 
+Oso durmiendo...
+La abeja D dio una porción de miel
+Valor del tarro: 6
+ 
+Oso durmiendo...
+La abeja J dio una porción de miel
+Valor del tarro: 7
+ 
+La abeja E dio una porción de miel
+Valor del tarro: 8
+ 
+Oso durmiendo...
+La abeja K dio una porción de miel
+Valor del tarro: 9
+ 
+Oso durmiendo...
+La abeja F dio una porción de miel
+Valor del tarro: 10
+ 
+Oso durmiendo...
+La abeja A dio una porción de miel
+Valor del tarro: 11
+ 
+Oso durmiendo...
+La abeja G dio una porción de miel
+Valor del tarro: 12
+ 
+La abeja G lleno el tarro
+La abeja G despertara al oso
+ 
+La abeja B lleno el tarro
+La abeja B despertara al oso
+ 
+Oso se desperto 
+
+Oso comiendo
+
+Se vacio el tarro de miel
+
+Tamaño del tarro: 12
+
+La abeja H dio una porción de miel
+Valor del tarro: 1
+ 
+Oso durmiendo...
+La abeja C dio una porción de miel
+Valor del tarro: 2
+ 
+Oso durmiendo...
+La abeja I dio una porción de miel
+Valor del tarro: 3
+ 
+Oso durmiendo...
+La abeja D dio una porción de miel
+Valor del tarro: 4
+ 
+La abeja J dio una porción de miel
+Valor del tarro: 5
+ 
+Oso durmiendo...
+La abeja E dio una porción de miel
+Valor del tarro: 6
+ 
+Oso durmiendo...
+La abeja K dio una porción de miel
+Valor del tarro: 7
+ 
+Oso durmiendo...
+La abeja F dio una porción de miel
+Valor del tarro: 8
+ 
+Oso durmiendo...
+La abeja A dio una porción de miel
+Valor del tarro: 9
+ 
+La abeja G dio una porción de miel
+Valor del tarro: 10
+ 
+Oso durmiendo...
+La abeja B dio una porción de miel
+Valor del tarro: 11
+ 
+Oso durmiendo...
+La abeja H dio una porción de miel
+Valor del tarro: 12
+ 
+La abeja H lleno el tarro
+La abeja H despertara al oso
+ 
+Oso se desperto 
+
+Oso comiendo
+
+Se vacio el tarro de miel
+
+Tamaño del tarro: 12
+
+La abeja C dio una porción de miel
+Valor del tarro: 1
+ 
+Oso durmiendo...
+La abeja I dio una porción de miel
+Valor del tarro: 2
+ 
+La abeja D dio una porción de miel
+Valor del tarro: 3
+ 
+Oso durmiendo...
+La abeja J dio una porción de miel
+Valor del tarro: 4
+ 
+Oso durmiendo...
+La abeja E dio una porción de miel
+Valor del tarro: 5
+ 
+Oso durmiendo...
+La abeja K dio una porción de miel
+Valor del tarro: 6
+ 
+Oso durmiendo...
+La abeja F dio una porción de miel
+Valor del tarro: 7
+ 
+La abeja A dio una porción de miel
+Valor del tarro: 8
+ 
+Oso durmiendo...
+La abeja G dio una porción de miel
+Valor del tarro: 9
+ 
+Oso durmiendo...
+La abeja B dio una porción de miel
+Valor del tarro: 10
+ 
+Oso durmiendo...
+La abeja H dio una porción de miel
+Valor del tarro: 11
+ 
+Oso durmiendo...
+La abeja C dio una porción de miel
+Valor del tarro: 12
+ 
+La abeja C lleno el tarro
+La abeja C despertara al oso
+ 
+La abeja I lleno el tarro
+La abeja I despertara al oso
+ 
+Oso se desperto 
+
+Oso comiendo
+
+Se vacio el tarro de miel
+
+Tamaño del tarro: 12
+
+La abeja D dio una porción de miel
+Valor del tarro: 1
+ 
+Oso durmiendo...
+La abeja J dio una porción de miel
+Valor del tarro: 2
+ 
+Oso durmiendo...
+La abeja E dio una porción de miel
+Valor del tarro: 3
+ 
+Oso durmiendo...
+La abeja K dio una porción de miel
+Valor del tarro: 4
+ 
+La abeja F dio una porción de miel
+Valor del tarro: 5
+ 
+Oso durmiendo...
+La abeja A dio una porción de miel
+Valor del tarro: 6
+ 
+Oso durmiendo...
+La abeja G dio una porción de miel
+Valor del tarro: 7
+ 
+Oso durmiendo...
+La abeja B dio una porción de miel
+Valor del tarro: 8
+ 
+Oso durmiendo...
+La abeja H dio una porción de miel
+Valor del tarro: 9
+ 
+La abeja D dio una porción de miel
+Valor del tarro: 10
+ 
+La abeja I dio una porción de miel
+La abeja C dio una porción de miel
+Valor del tarro: 12
+ 
+La abeja C lleno el tarro
+La abeja C despertara al oso
+ 
+La abeja E lleno el tarro
+La abeja E despertara al oso
+ 
+La abeja J lleno el tarro
+La abeja J despertara al oso
+ 
+Valor del tarro: 12
+ 
+La abeja I lleno el tarro
+La abeja I despertara al oso
+ 

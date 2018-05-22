@@ -1,6 +1,6 @@
 /***************************************************************************************
  * Proyecto:    Practica 13
- * Fecha:       14 mayo 2018
+ * Fecha:       16 mayo 2018
  * Integrantes: Garcia Rivera Braulio, Hernandez Alonso Andrey 
  * 
  * Clases modificadas:
